@@ -22,15 +22,28 @@ Definir que es un inductor y como se comporta en un circuito.
 2.- MARCO TEÓRICO
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-CAPITULO 15
+CAPITULO 15: CIRCUITOS RC
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+PARTE 1: CIRCUITOS EN SERIE 
 
+PARTE 2: CIRCUITOS EN PARALELO
+
+PARTE 3: CIRCUITOS EN SERIE-PARALELO
+
+PARTE 4: TEMAS ESPECIALES  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-CAPITULO 16
+CAPITULO 16: CIRCUITOS RL
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+PARTE 1: CIRCUITOS EN SERIE 
+
+PARTE 2: CIRCUITOS EN PARALELO
+
+PARTE 3: CIRCUITOS EN SERIE-PARALELO
+
+PARTE 4: TEMAS ESPECIALES 
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
