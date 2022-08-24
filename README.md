@@ -53,11 +53,23 @@ CAPITULO 16: CIRCUITOS RL
 
 PARTE 1: CIRCUITOS EN SERIE 
 
+![image](https://user-images.githubusercontent.com/105722861/186496442-d08714d9-e9d0-4ca3-966b-138900ce1752.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186496502-8d694623-cfe5-4006-b671-7675dc092c04.png)
+
 PARTE 2: CIRCUITOS EN PARALELO
+
+![image](https://user-images.githubusercontent.com/105722861/186496596-849030bb-b9ac-46e7-834b-854a0f5442c3.png)
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 
+![image](https://user-images.githubusercontent.com/105722861/186496654-78a0ddf4-d4a2-4935-bb5e-b36954acee08.png)
+
 PARTE 4: TEMAS ESPECIALES 
+
+![image](https://user-images.githubusercontent.com/105722861/186496720-479adb44-a3d4-49c7-8b4a-eea8606d54e0.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186496767-0e2f4fa5-4e52-497c-b153-bc5edc139641.png)
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -79,6 +91,6 @@ CAPITULO 16
 
 6.- BIBLIOGRAFÍA
 
-THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 600-599).México: Pearson Educación de México, S.A. de C.V.
+THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 600-725).México: Pearson Educación de México, S.A. de C.V.
 
 
