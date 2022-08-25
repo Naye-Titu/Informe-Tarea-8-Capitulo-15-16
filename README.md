@@ -122,6 +122,27 @@ CAPITULO 15
 
 ![image](https://user-images.githubusercontent.com/105722861/186578586-83d4523d-3442-48a9-b517-990250902028.png)
 
+![image](https://user-images.githubusercontent.com/105722861/186578725-c424a4c5-811f-4316-8990-9d2d7e38d9b0.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186579038-8c5e6367-053b-4785-b49a-810ae924c787.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186579118-76ea9cc0-f147-4551-ada4-fdf12ac05853.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186579250-90680f79-a73f-4f80-9a6d-7755f983cbde.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186579368-4d460d90-6b95-4e7a-b13a-f9196825f725.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186579490-50efd685-e91d-40be-9428-9baa7cf8eba9.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186579680-e72e3bb6-2cd5-4c15-b28b-da7998d5cc54.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186579793-1e8bd92d-34dd-4da9-bcc0-169febc88d0f.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186579997-b538b39e-8a59-4c85-9729-0d16a5b062ff.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186580124-080af61a-76a3-424d-a140-d64200b3cdb1.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186580209-4b03a095-7dc9-4506-bcdc-2d25927d1854.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 CAPITULO 16
