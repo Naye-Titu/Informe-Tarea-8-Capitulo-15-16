@@ -148,6 +148,38 @@ CAPITULO 15
 CAPITULO 16
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://user-images.githubusercontent.com/105722861/186580377-3da48ba2-451d-4923-b314-9d1309219660.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186580457-950dbab0-1118-4ae8-9a7f-02a20ea1fe00.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186580546-bcc07861-f91d-45fa-858c-a688394e7405.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186580816-b7daff2b-1946-4489-870e-0aefcc648539.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186580982-78564ce9-a6f0-4e2d-af05-0414870ec035.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186581088-c9a11af2-7a83-468c-a014-3e8a6a1d0c67.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186581210-0ceeb816-2033-46b9-a786-462d69ed0039.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186581293-576c232c-a10c-403b-a6a9-a0ffdc039853.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186581637-740031ba-fae3-4e87-bc31-13418f92608c.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186581985-0631715a-ec44-42bb-b876-e0e207b841b8.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186582132-bb662737-b769-4c14-b6ee-6acea5dcc8b2.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186582272-ae8a8dd2-c3cf-4159-98e1-0f620d374d8c.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186582426-f9b02e8d-9fbf-4ff6-9012-a8421d79153b.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186582565-34b24e61-eed5-4575-9ad7-249b05fa5ff3.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186582798-a524d977-4822-4bb5-80e7-3759cf1304a0.png)
+
+![image](https://user-images.githubusercontent.com/105722861/186583199-0609c9c2-44fa-4312-b1a5-db4253025bd6.png)
+
 4.- VIDEO
 
 5.- CONCLUSIONES
