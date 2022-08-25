@@ -14,10 +14,17 @@ INFORME DE TAREA
 
 Objetivo General
 
+Conozer los circuitos RC y RL, poder encontrar en sus diferentes etapas de carga y descarga, así como también complementarlo con un análisis matemático para corroborarlo con la teoria.
 
 Objetivos específicos.
 
-Definir que es un inductor y como se comporta en un circuito.
+* Definir y comprender la diferencia entre circuito RC Y RL.
+
+* Comprender los anàlisis de circuitos en paralelo y serie en los circuitos RC y RL.
+
+* RAnalizar dinámicamente las oscilaciones electromagnéticas en el circuito RLC sin fuente de energía externa.
+
+* Estudio de las características de circuitos RC y RL. Respuesta para tensiones cuadradas y sinusoidales. Impedancia y admitancia inductiva.
 
 2.- MARCO TEÓRICO
 
@@ -184,6 +191,19 @@ CAPITULO 16
 
 5.- CONCLUSIONES
 
+* Los circuitos RC son circuitos que están compuestos por una resistencia y un condensador.
+
+* Los circuitos RL son aquellos que contienen una bobina (inductor) que tiene auto inductancia, esto quiere decir que evita cambios instantáneos en la corriente.
+
+* Los RLC se acoplan resistencias, capacitores e inductores. Existe también un ángulo de desfasaje entre las tensiones y corrientes (y entre las potencias), que incluso puede llegar a hacerse cero.
+
+* En conclusión, la impedancia de un circuito en serie RL formado por resistencia y reactancia inductiva es la fuerza reactiva total con respecto a una corriente sinusoidal. La unidad es Ω (ohm). La impedancia también provoca una diferencia de fase entre la corriente total y la tensión de alimentación. Por lo tanto, la impedancia consta de un componente de magnitud y un componente de ángulo de fase.
+
+* Si la tensión de entrada en un circuito en serie RL es sinusoidal, todas las corrientes y tensiones son sinusoidales. La inductancia desplaza la fase de la tensión y la corriente, pero esto depende de los valores relativos de la resistencia y la reactancia inductiva.
+
+* Los números complejos permiten el análisis de los circuitos con fuentes alternas, además de poder proyectar el voltaje o corriente en un plano complejo.
+
+* La impedancia de un circuito es el conjunto de componentes que se resisten al paso de la corriente, además, la impedancia en un circuito alterno representa el valor de la resistencia en la ley de ohm aplicada a la corriente con fuente alterna.
 
 6.- BIBLIOGRAFÍA
 
